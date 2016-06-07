@@ -1,6 +1,8 @@
 # cappuccino-power
 Remote control via web (IOT) for cappuccino machine using ESP8266 and standard servo.
 
+Demostration video: https://www.youtube.com/watch?v=_8TL1clHK6k
+
 This project makes use of the following hardware:
 ESP8266 - example: http://www.amazon.com/HiLetgo-Version-NodeMCU-Internet-Development/dp/B010O1G1ES/ref=sr_1_1?s=pc&ie=UTF8&qid=1465259310&sr=1-1&keywords=esp8266
 
