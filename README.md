@@ -15,3 +15,5 @@ PWM servo, a Hitec perhaps - example: http://www.amazon.com/Hitec-31311S-HS-311-
 Be sure to setup the ssid and password for your wifi in the ssid and password variables near the top of the program.
 
 Use serial debugging to determine the IP address once you have it uploaded. That is the IP you'll need to visit with your web browser.
+
+The code supports updates via WiFi using the ESP8266HttpUpdateServer library. To update, visit http://cappuccino.local/update and browse for the bin file from the latest compile (usually in /tmp/buildxxxx).
